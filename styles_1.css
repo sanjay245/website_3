@@ -1,0 +1,68 @@
+.Title{
+    background-color: #F1E0AC;
+    font-size: 40px;
+    padding: 35px;
+    text-align: center;
+    color: #495371;
+    
+}
+
+.second{
+    background-color: #495371;
+    font-size: 25px;
+    justify-content: space-evenly;
+    padding: 20px;
+    text-align: center;
+    color: #F1E0AC;
+}
+
+span{
+    margin: 100px;
+}
+
+.third{
+    background-color: #C2DED1;
+    text-align: center;
+    padding: 50px;
+}
+
+img{
+    width: 350px;
+    height:500px;
+    margin: 10px;
+    border: solid;
+    background-color: #CDC2AE;
+    float: left;
+}
+   
+
+
+hr{
+    border-color: #354259; 
+ border-style:dotted none none;
+ border-width: 10px;
+ width: 5%;
+ }
+
+ #Register{
+     background-color: #495371;
+     color: #F1E0AC;
+     padding: 20px;
+     text-align: center;
+
+ }
+
+ #address{
+    background-color: #F1E0AC;
+    font-size: 15px;
+    padding: 10px;
+    text-align: justify;
+    color: #495371;
+ }
+
+ 
+    
+
+
+
+

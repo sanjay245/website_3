@@ -10,8 +10,7 @@
 .second{
     background-color: #495371;
     font-size: 25px;
-    justify-content: space-evenly;
-    padding: 20px;
+    justify-content: space-between;
     text-align: center;
     color: #F1E0AC;
 }
@@ -38,7 +37,7 @@ img{
 
 
 hr{
-    border-color: #354259; 
+ border-color: #354259; 
  border-style:dotted none none;
  border-width: 10px;
  width: 5%;
@@ -52,13 +51,108 @@ hr{
 
  }
 
- #address{
+.address{
     background-color: #F1E0AC;
     font-size: 15px;
     padding: 10px;
     text-align: justify;
     color: #495371;
  }
+
+ .Home_1{
+    background-color: #F1E0AC;
+    font-size: 20px;
+    padding: 15px;
+    text-align: center;
+    color: #495371;
+    
+}
+
+a{
+  text-decoration: none;
+}
+
+ .Pizzas{
+    display:inline-block;
+    margin: 20px 60px 20px 20px;
+    height: 30px;
+    width: 140px;
+    border-radius: 10px;
+    background-color: #F1E0AC;
+    color: #495371;
+    padding: 10px;
+    text-align: center;
+  }
+
+  .Burgers{
+    display:inline-block;
+    margin: 20px 60px 20px 20px;
+    height: 30px;
+    width: 140px;
+    border-radius: 10px;
+    background-color: #F1E0AC;
+    color: #495371;
+    padding: 10px;
+    text-align: center;
+  }
+
+  .sandwiches{
+    display:inline-block;
+    margin: 20px 60px 20px 20px;
+    height: 30px;
+    width: 140px;
+    border-radius: 10px;
+    background-color: #F1E0AC;
+    color: #495371;
+    padding: 10px;
+    text-align: center;
+  }
+
+  .Coffee{
+    display:inline-block;
+    margin: 20px 60px 20px 20px;
+    height: 30px;
+    width: 140px;
+    border-radius: 10px;
+    background-color: #F1E0AC;
+    color: #495371;
+    padding: 10px;
+    text-align: center;
+  }
+
+  .About{
+    display:inline-block;
+    margin: 20px 60px 20px 20px;
+    height: 30px;
+    width: 140px;
+    border-radius: 10px;
+    background-color: #F1E0AC;
+    color: #495371;
+    padding: 10px;
+    text-align: center;
+  }
+
+.Pizza_para{
+  background-color: #495371;
+  padding: 20px;
+  font-size: 25px;
+  justify-content: space-between;
+  text-align: center;
+  color: #F1E0AC;
+
+}
+
+.button input[type="radio"] {
+  display: none;
+  margin: 0;
+}
+
+input[type="radio"]:checked + label {
+  border: 1px solid red;
+}
+
+
+  
 
  
     
